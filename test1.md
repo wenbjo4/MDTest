@@ -14,15 +14,19 @@ bb
 bbb
 ---
 *emphase* _another emphase_
+
 **italic** __another italic__
+
 *emphase and __italic__*
-example
+
+1.example
 ⋅fff
 ⋅⋅bbb
 ⋅⋅⋅ccc
 *aaa
 +ccc
 -qqq
+
 ```javascript
 var s = "JavaScript 語法高亮";
 alert(s);
