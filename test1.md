@@ -20,7 +20,7 @@ bbb
 *emphase and __italic__*
 
 1.example
-⋅⋅⋅ccc
+...ccc
 *aaa
 +ccc
 -qqq
