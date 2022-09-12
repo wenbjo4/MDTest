@@ -20,10 +20,10 @@ bbb
 *emphase and __italic__*
 
 1. example
-  1. ccc
-*aaa
-+ccc
--qqq
+   1. ccc
+   *aaa
+   +ccc
+   -qqq
 
 ```javascript
 var s = "JavaScript 語法高亮";
